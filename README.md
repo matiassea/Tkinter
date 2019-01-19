@@ -146,6 +146,7 @@ def insert_number():
       
 button2 = tk.Button (root, text='Click to Draw Chart ',command=insert_number) 
 canvas1.create_window(97, 270, window=button2) 
+
 ´´´
 
 
@@ -161,9 +162,10 @@ imagepath1 = r’C:\Users\Doron E\Desktop\Web Images\panorama_pic.jpg’
 Additional comments are available within the code to clarify each component of the code:
 
 ´´´python
+
 #How to Create a GUI in Python 
  
-# Import modules
+#Import modules
 import tkinter as tk # module to create a GUI 
 from PIL import ImageTk # module to add a background picture
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
