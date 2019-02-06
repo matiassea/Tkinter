@@ -2,10 +2,12 @@
 General Information about TKinter
 
 
-## https://datatofish.com/matplotlib-charts-tkinter-gui/ <br/>
-## https://datatofish.com/how-to-create-a-gui-in-python/ <br/>
-
-
+https://datatofish.com/matplotlib-charts-tkinter-gui/ <br/>
+https://datatofish.com/how-to-create-a-gui-in-python/ <br/>
+https://www.datacamp.com/community/tutorials/gui-tkinter-python <br/>
+https://docs.python.org/3/library/tk.html <br/>
+https://datatofish.com/entry-box-tkinter/ <br/>
+https://pythonspot.com/tkinter/ <br/>
 
 ´´´python
 
