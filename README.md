@@ -11,6 +11,7 @@ https://www.datacamp.com/community/tutorials/gui-tkinter-python <br/>
 https://docs.python.org/3/library/tk.html <br/>
 https://datatofish.com/entry-box-tkinter/ <br/>
 https://pythonspot.com/tkinter/ <br/>
+https://www.tcl.tk/man/tcl8.6/TkCmd/contents.htm <br/>
 
 ```python
 
