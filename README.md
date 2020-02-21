@@ -25,6 +25,7 @@ https://towardsdatascience.com/you-can-manage-cigars-with-tkinter-a2c39990e1b2
 The Text widget provides formatted text display. It allows you to display and edit text with various styles and attributes. The widget also supports embedded images and windows.
 https://effbot.org/tkinterbook/text.htm
 https://docs.python.org/2/library/tkinter.html
+https://www.python-course.eu/tkinter_text_widget.php
 
 ### Entry Widget
 The Entry widget is a standard Tkinter widget used to enter or display a single line of text.
