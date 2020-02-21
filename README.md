@@ -13,6 +13,70 @@ https://datatofish.com/entry-box-tkinter/ <br/>
 https://pythonspot.com/tkinter/ <br/>
 https://www.tcl.tk/man/tcl8.6/TkCmd/contents.htm <br/>
 
+### Ejemplos Tkinter con dataframe
+https://songhuiming.github.io/pages/2016/05/13/tkinter-read-data-dropdown-menu-select-data-and-print-dataframe/
+https://towardsdatascience.com/you-can-manage-cigars-with-tkinter-a2c39990e1b2
+
+
+### Listbox
+
+
+### Text Widget
+The Text widget provides formatted text display. It allows you to display and edit text with various styles and attributes. The widget also supports embedded images and windows.
+https://effbot.org/tkinterbook/text.htm
+https://docs.python.org/2/library/tkinter.html
+
+### Entry Widget
+The Entry widget is a standard Tkinter widget used to enter or display a single line of text.
+https://effbot.org/tkinterbook/entry.htm
+https://docs.python.org/2/library/tkinter.html
+
+### Message box
+https://pythonspot.com/tk-message-box/
+
+from tkinter import messagebox
+messagebox.showinfo("Title", "a Tk MessageBox")
+
+showwarning()
+showinfo()
+showerror()
+
+´´´
+import tkinter
+from tkinter import messagebox
+
+# hide main window
+root = tkinter.Tk()
+root.withdraw()
+
+# message box display
+messagebox.showerror("Error", "Error message")
+messagebox.showwarning("Warning","Warning message")
+messagebox.showinfo("Information","Informative message")
+
+´´´
+### askquestion dialog
+https://pythonspot.com/tkinter-askquestion-dialog/
+
+´´´
+import tkinter
+from tkinter import messagebox
+ 
+messagebox.askokcancel("Python","Would you like to save the data?")
+´´´
+´´´
+import tkinter
+from tkinter import messagebox
+ 
+messagebox.askokcancel("Title","The application will be closed")
+messagebox.askyesno("Title","Do you want to save?")
+messagebox.askretrycancel("Title","Installation failed, try again?")
+´´´
+
+
+
+
+
 ```python
 
 import tkinter as tk
